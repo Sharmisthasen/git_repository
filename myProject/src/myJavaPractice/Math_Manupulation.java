@@ -30,6 +30,12 @@ public class Math_Manupulation {
 		System.out.println("Befor changing the value of fianl variable :"+Final_Variable.i[4]);
 		Final_Variable.i[4]=20;
 		System.out.println("After changing the value of Final_variable of a interface : "+Final_Variable.i[4]);
+		System.out.println(Final_Variable.s);
+		Final_Variable.s.name = "Akash";
+		System.out.println(Final_Variable.s);
+		
+		
+		
 		
 
 	}
